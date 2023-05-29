@@ -1,0 +1,1 @@
+curl -w "@%~dp0curl-format.txt" -o NUL -s %*
